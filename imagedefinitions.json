@@ -1,4 +1,4 @@
 [{
     "name": "sample-website",
-    "imageUri": "705122824293.dkr.ecr.us-east-1.amazonaws.com/nginx:latest"
+    "imageUri": "nginx:1.22-alpine"
 }]
