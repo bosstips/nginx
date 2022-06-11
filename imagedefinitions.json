@@ -1,4 +1,4 @@
 [{
-    "name": "sample-website",
+    "name": "SalesAuditDataPipelineService",
     "imageUri": "nginx:1.22-alpine"
 }]
